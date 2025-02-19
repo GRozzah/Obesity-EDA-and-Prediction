@@ -1,5 +1,9 @@
 # Obesity EDA and Prediction Project
+
+[Dataset link UCI](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
+
 **This repository contains an exploratory data analysis (EDA) and machine learning model for predicting obesity levels based on various factors. The project follows two main steps: performing detailed EDA to understand the data and then applying a machine learning model for predicting obesity. The dataset includes demographic, lifestyle, and health factors that may contribute to obesity.**
+
 ![Obesity EDA and Prediction](Assets/Obesity_Logo.jpg)
 
 ## Project Structure
